@@ -6,7 +6,7 @@ import Facebook from './facebook';
 class SocialLinks extends Component{
     render() {
         return(
-            <div>
+            <div className="socialLinksContainer">
                 <Facebook/>
                 <Github/>
                 <Linkedin/>
