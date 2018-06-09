@@ -22,3 +22,6 @@ yarn-error.log*
 
 # IDE configs
 .idea
+
+# min.css files
+src/assets/css/*.min.css
