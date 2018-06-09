@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './assets/css/default.min.css';
+import './assets/css/styles.min.css';
 
 import Header from './components/headerComponent/header';
 import SocialLinks from './components/socialMediaComponent/socialLinks';

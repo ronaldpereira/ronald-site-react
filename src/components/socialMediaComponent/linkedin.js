@@ -9,7 +9,7 @@ class Linkedin extends Component{
         return(
             <div className="socialLogo">
                 <a href={linkedinLink} target="_blank" rel="noopener noreferrer">
-                    <img src={imgSrc} alt={imgAlt} />
+                    <img id="linkedin" src={imgSrc} alt={imgAlt} />
                 </a>
             </div>
         );

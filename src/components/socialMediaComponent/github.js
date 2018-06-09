@@ -9,7 +9,7 @@ class Github extends Component{
         return(
             <div className="socialLogo">
                 <a href={githubLink} target="_blank" rel="noopener noreferrer">
-                    <img src={imgSrc} alt={imgAlt}  />
+                    <img id="github" src={imgSrc} alt={imgAlt}  />
                 </a>
             </div>
         );
